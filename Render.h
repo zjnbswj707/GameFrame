@@ -1,3 +1,5 @@
+#pragma once
+
 #include "GameFrame.h"
 #include "RGB.h"
 #include "Vector2.h"
